@@ -6,4 +6,4 @@
 
 视频一
 
-<video src="./test.assets/含笑半步癫.mp4"></video>
+<video src="./test.assets/laugh.mp4"></video>
